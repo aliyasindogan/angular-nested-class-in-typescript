@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/27247270/113521448-2c92f080-95a2-11eb-8f92-2913cff54cbe.png)
+
 # AngularNestedClassInTypescript
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
@@ -27,4 +29,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-![image](https://user-images.githubusercontent.com/27247270/113521448-2c92f080-95a2-11eb-8f92-2913cff54cbe.png)
